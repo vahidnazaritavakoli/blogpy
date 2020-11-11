@@ -1,1 +1,17 @@
+
+#Win stuff
 .idea/
+
+#Virtual ENv
+blogpy/venv1
+
+
+#Migrations
+blog/migrations/
+
+#Database
+db.sqlite3
+
+
+
+
